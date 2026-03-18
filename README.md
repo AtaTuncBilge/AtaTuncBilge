@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-AtaTuncBilge | [X](https://x.com/redpersongpt) | [GitHub](https://github.com/AtaTuncBilge)
+[X](https://x.com/redpersongpt) 
 
 ---
 
@@ -15,6 +15,11 @@ Automated utility for deploying macOS on PC hardware. Handles hardware analysis,
 - SecureBoot and Vault configuration.
 
 <img src="assets/landing.png" width="100%">
+
+<p align="center">
+  <img src="assets/interface_scan.png" width="48%" />
+  <img src="assets/interface_troubleshoot.png" width="48%" />
+</p>
 
 ---
 
