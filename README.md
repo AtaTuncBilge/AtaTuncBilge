@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-[X](https://x.com/redpersongpt) 
+X](https://x.com/redpersongpt) 
 
 ---
 
@@ -14,11 +14,11 @@ Automated utility for deploying macOS on PC hardware. Handles hardware analysis,
 - Resumable download system with byte-offset tracking.
 - SecureBoot and Vault configuration.
 
-<img src="assets/landing.png" width="100%">
+<img src="https://raw.githubusercontent.com/AtaTuncBilge/macOS-One-Click/main/assets/landing.png" width="100%">
 
 <p align="center">
-  <img src="assets/interface_scan.png" width="48%" />
-  <img src="assets/interface_troubleshoot.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/AtaTuncBilge/macOS-One-Click/main/assets/interface_scan.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/AtaTuncBilge/macOS-One-Click/main/assets/interface_troubleshoot.png" width="48%" />
 </p>
 
 ---
