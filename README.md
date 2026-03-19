@@ -1,8 +1,6 @@
 # Welcome
 
-<p align="left">
-  <a href="https://x.com/redpersongpt"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="30"></a>
-  <a href="https://tr.linkedin.com/in/ata-tun%C3%A7-37240b289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
+
   <img src="https://komarev.com/ghpvc/?username=redpersongpt&color=green&style=for-the-badge&label=visitors" height="30">
 </p>
 
