@@ -35,7 +35,7 @@
       <p>· Privacy-focused OCR for PDFs and images. Runs locally in the browser</p>
       <a href="https://github.com/redpersongpt/REDCORE-OCR">
         <img
-          src="https://raw.githubusercontent.com/redpersongpt/REDCORE-OCR/main/ocr_logo_icon_png_transparent.png"
+          src="https://raw.githubusercontent.com/redpersongpt/redpersongpt/main/image%20copy.png"
           alt="REDCORE OCR"
           width="100%"
         >
