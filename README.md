@@ -19,8 +19,7 @@
         ·
         <a href="https://github.com/redpersongpt/macOS-One-Click">Repo</a>
       </p>
-      <p>· Automated utility for deploying macOS on PC hardware</p>
-      <p>· Still WIP</p>
+      <p>· Automated utility for deploying macOS on PC hardware. Still WIP</p>
       <a href="https://github.com/redpersongpt/macOS-One-Click-Web">
         <img src="./image.png" alt="macOS One-Click" width="100%">
       </a>
