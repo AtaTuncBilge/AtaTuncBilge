@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>macOS One-Click</h3>
+      <h3>OpCore - OneClick</h3>
       <p>
         <a href="https://macos-install.one">Site</a>
         ·
