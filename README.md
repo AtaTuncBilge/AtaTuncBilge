@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://redcoreos.net" target="_blank">
-  <img src="https://raw.githubusercontent.com/redpersongpt/redcoreOS/main/image.png" alt="redcore OS" width="420" />
+  <img src="https://raw.githubusercontent.com/redpersongpt/redcoreOS/main/image.png" alt="redcore OS" width="700" />
 </a>
 
 # redcoreOS
@@ -15,6 +15,6 @@ Open-source Windows optimization. 250 actions.
 
 **[redcoreos.net](https://redcoreos.net)** · **[Source Code](https://github.com/redpersongpt/redcoreOS)** · **[Download](https://github.com/redpersongpt/redcoreOS/releases/latest)**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=redpersongpt&hide_border=true&background=1e1e22&ring=ff3b6d&fire=ff3b6d&currStreakLabel=f0f0f4&currStreakNum=f0f0f4&sideLabels=f0f0f4&sideNums=f0f0f4&dates=a0a0ac" alt="GitHub streak" width="480" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=redpersongpt&hide_border=true&background=1e1e22&ring=ff3b6d&fire=ff3b6d&currStreakLabel=f0f0f4&currStreakNum=f0f0f4&sideLabels=f0f0f4&sideNums=f0f0f4&dates=a0a0ac" alt="GitHub streak" width="700" />
 
 </div>
