@@ -30,6 +30,12 @@ Build polished chat, social, AI, email, and gaming mockups with editable details
 
 <br />
 
-
+<a href="https://mimicly.net">
+  <img
+    src="./assets/mimicly-preview.png"
+    alt="Mimicly preview"
+    width="760"
+  />
+</a>
 
 </div>
