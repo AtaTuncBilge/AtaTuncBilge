@@ -21,7 +21,7 @@
 
 
 
-**[Open Mimicly](https://mimicly.net)** 
+**[Click Me](https://mimicly.net)** 
 <br />
 
 <a href="https://mimicly.net">
