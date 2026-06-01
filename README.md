@@ -21,8 +21,7 @@
 
 
 
-**[Open Mimicly](https://mimicly.net)** · **[Launch Editor](https://mimicly.net/editor)** · **[Go Pro](https://mimicly.net/pricing)**
-
+**[Open Mimicly](https://mimicly.net)** 
 <br />
 
 <a href="https://mimicly.net">
