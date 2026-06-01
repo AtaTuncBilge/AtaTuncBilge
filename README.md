@@ -1,10 +1,12 @@
 <div align="center">
 
-  <img
-    src="./assets/mimi.png"
-    alt="Mimi mascot"
-    width="108"
-  />
+  <a href="https://mimicly.net">
+    <img
+      src="./assets/mimi.png"
+      alt="Mimi mascot"
+      width="108"
+    />
+  </a>
 
 # Mimicly
 
@@ -28,10 +30,12 @@ Build polished chat, social, AI, email, and gaming mockups with editable details
 
 <br />
 
-<img
-  src="./assets/mimicly-preview.png"
-  alt="Mimicly preview"
-  width="760"
-/>
+<a href="https://mimicly.net">
+  <img
+    src="./assets/mimicly-preview.png"
+    alt="Mimicly preview"
+    width="760"
+  />
+</a>
 
 </div>
