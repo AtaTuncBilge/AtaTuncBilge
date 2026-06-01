@@ -10,7 +10,7 @@
 
 # Mimicly
 
-### Create believable app scenes in minutes.
+### Troll your friends with fake UI's
 
 <p align="center">
   <a href="https://mimicly.net">
