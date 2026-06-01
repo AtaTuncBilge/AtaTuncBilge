@@ -1,16 +1,35 @@
 <div align="center">
 
-# OudenOS
+  <img
+    src="https://mimicly.net/mimi.png"
+    alt="Mimi mascot"
+    width="118"
+  />
+
+# Best Mockup UI Generator
 
 <p>
-  <a href="https://ouden.cc"><img src="https://img.shields.io/badge/ouden.cc-E8E8E8?style=for-the-badge&logo=windows&logoColor=000000" alt="Website" /></a>
-  <a href="https://github.com/redpersongpt/oudenOS/releases/latest"><img src="https://img.shields.io/github/v/release/redpersongpt/oudenOS?style=for-the-badge&color=E8E8E8&labelColor=111111" alt="Release" /></a>
+  <a href="https://mimicly.net">
+    <img src="https://img.shields.io/badge/mimicly.net-18181B?style=for-the-badge&labelColor=FFFFFF&logoColor=18181B" alt="Website" />
+  </a>
+  <a href="https://mimicly.net/templates">
+    <img src="https://img.shields.io/badge/55%2B_Templates-C4644A?style=for-the-badge&labelColor=18181B&color=C4644A" alt="Templates" />
+  </a>
+  <a href="https://mimicly.net/pricing">
+    <img src="https://img.shields.io/badge/PNG_%2B_MP4_Exports-F2E8DF?style=for-the-badge&labelColor=18181B&color=F2E8DF" alt="Exports" />
+  </a>
 </p>
 
-Open-source Windows optimization. 250+ reversible actions.
+Create believable chat, social, AI, and gaming screenshots with polished templates, editable details, and clean exports.
 
-**[ouden.cc](https://ouden.cc)** · **[Source Code](https://github.com/redpersongpt/oudenOS)** · **[Download](https://github.com/redpersongpt/oudenOS/releases/latest)**
+**[Open Mimicly](https://mimicly.net)** · **[Template Studio](https://mimicly.net/templates)** · **[Go Pro](https://mimicly.net/pricing)**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=redpersongpt&hide_border=true&background=000000&ring=E8E8E8&fire=E8E8E8&currStreakLabel=E8E8E8&currStreakNum=FFFFFF&sideLabels=999999&sideNums=E8E8E8&dates=666666" alt="GitHub streak" width="320" />
+<br />
+
+<img
+  src="https://mimicly.net/og-image.png"
+  alt="Mimicly preview"
+  width="640"
+/>
 
 </div>
