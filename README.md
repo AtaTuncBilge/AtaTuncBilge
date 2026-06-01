@@ -1,35 +1,37 @@
 <div align="center">
 
   <img
-    src="https://mimicly.net/mimi.png"
+    src="./assets/mimi.png"
     alt="Mimi mascot"
-    width="118"
+    width="108"
   />
 
-# Best Mockup UI Generator
+# Mimicly
 
-<p>
+### Create believable app scenes in minutes.
+
+<p align="center">
   <a href="https://mimicly.net">
     <img src="https://img.shields.io/badge/mimicly.net-18181B?style=for-the-badge&labelColor=FFFFFF&logoColor=18181B" alt="Website" />
   </a>
-  <a href="https://mimicly.net/templates">
-    <img src="https://img.shields.io/badge/55%2B_Templates-C4644A?style=for-the-badge&labelColor=18181B&color=C4644A" alt="Templates" />
+  <a href="https://mimicly.net/editor">
+    <img src="https://img.shields.io/badge/Open_Editor-C4644A?style=for-the-badge&labelColor=18181B&color=C4644A" alt="Open editor" />
   </a>
   <a href="https://mimicly.net/pricing">
-    <img src="https://img.shields.io/badge/PNG_%2B_MP4_Exports-F2E8DF?style=for-the-badge&labelColor=18181B&color=F2E8DF" alt="Exports" />
+    <img src="https://img.shields.io/badge/PNG_%2B_MP4-59624B?style=for-the-badge&labelColor=18181B&color=59624B" alt="PNG and MP4 exports" />
   </a>
 </p>
 
-Create believable chat, social, AI, and gaming screenshots with polished templates, editable details, and clean exports.
+Build polished chat, social, AI, email, and gaming mockups with editable details and clean exports.
 
-**[Open Mimicly](https://mimicly.net)** · **[Template Studio](https://mimicly.net/templates)** · **[Go Pro](https://mimicly.net/pricing)**
+**[Open Mimicly](https://mimicly.net)** · **[Launch Editor](https://mimicly.net/editor)** · **[Go Pro](https://mimicly.net/pricing)**
 
 <br />
 
 <img
-  src="https://mimicly.net/og-image.png"
+  src="./assets/mimicly-preview.png"
   alt="Mimicly preview"
-  width="640"
+  width="760"
 />
 
 </div>
