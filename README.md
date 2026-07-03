@@ -19,7 +19,7 @@ I design, build, and launch iOS and web products end to end — from first sketc
 <p align="center">
   <a href="https://mimicly.net"><b>mimicly.net</b></a>
   &nbsp;·&nbsp;
-  <a href="https://apps.apple.com/app/id6777584708"><b>Download on the App Store</b></a>
+  <a href="https://apps.apple.com/tr/app/mimicly-mockup-ui/id6777584708"><b>Download on the App Store</b></a>
 </p>
 
 <p align="center">
